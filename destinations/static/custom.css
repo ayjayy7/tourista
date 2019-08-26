@@ -1,0 +1,30 @@
+.tour
+{
+    text-align: center;
+    margin-top: 25%;
+    color : white ;
+	font-family: 'Londoner';
+	line-height: 80%;
+    
+
+}
+
+
+.background{
+
+		background-color: #e4d8e0;
+		margin-bottom: 0 !important;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+ 	    -moz-background-size: cover;
+  		-o-background-size: cover;
+ 		 background-size: cover;
+}
+.navbar{
+	background-color: transparent;
+}
+
+.cardbg{
+	background-color: #ddced9;
+
+}
